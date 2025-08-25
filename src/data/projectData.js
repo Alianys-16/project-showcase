@@ -3,16 +3,16 @@ export const projects = [
   {
     id: 1,
     title: {
-      en: "",
-      es: "",
+      en: "Kinesis Foundation PR",
+      es: " Fundación Kinesis PR",
     },
     description: {
-      en: "",
-      es: "",
+      en: "Empowering young people in Puerto Rico to achieve their educational goals.",
+      es: "Empoderando jóvenes en Puerto Rico para alcanzar sus metas educativas.",
     },
     image: "",
-    liveSite: "",
-    githubRepo: "",
+    liveSite: "https://alianys-16.github.io/FinalWebsite/",
+    githubRepo: "https://github.com/Alianys-16/FinalWebsite",
   },
   // Add more projects here...
 ];
